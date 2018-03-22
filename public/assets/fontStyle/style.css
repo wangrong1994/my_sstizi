@@ -1,0 +1,113 @@
+@font-face {
+  font-family: 'ssricomoon';
+  src:  url('./fonts/icomoon.eot?taw0jt');
+  src:  url('./fonts/icomoon.eot?taw0jt#iefix') format('embedded-opentype'),
+    url('./fonts/icomoon.ttf?taw0jt') format('truetype'),
+    url('./fonts/icomoon.woff?taw0jt') format('woff'),
+    url('./fonts/icomoon.svg?taw0jt#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ssr-icon-"], [class*=" ssr-icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'ssricomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ssr-icon-more:before {
+  content: "\21";
+}
+.ssr-icon-finder:before {
+  content: "\22";
+}
+.ssr-icon-windows:before {
+  content: "\23";
+}
+.ssr-icon-android:before {
+  content: "\24";
+}
+.ssr-icon-apple:before {
+  content: "\25";
+}
+.ssr-icon-download:before {
+  content: "\26";
+}
+.ssr-icon-tutorial:before {
+  content: "\27";
+}
+.ssr-icon-placard:before {
+  content: "\28";
+}
+.ssr-icon-freeze:before {
+  content: "\29";
+}
+.ssr-icon-restore:before {
+  content: "\2a";
+}
+.ssr-icon-announcement:before {
+  content: "\2b";
+}
+.ssr-icon-income:before {
+  content: "\2c";
+}
+.ssr-icon-people:before {
+  content: "\2d";
+}
+.ssr-icon-quit:before {
+  content: "\2e";
+}
+.ssr-icon-message:before {
+  content: "\2f";
+}
+.ssr-icon-settlement:before {
+  content: "\30";
+}
+.ssr-icon-post:before {
+  content: "\31";
+}
+.ssr-icon-note:before {
+  content: "\32";
+}
+.ssr-icon-copy:before {
+  content: "\33";
+}
+.ssr-icon-ccount-information:before {
+  content: "\34";
+}
+.ssr-icon-detail:before {
+  content: "\35";
+}
+.ssr-icon-home:before {
+  content: "\36";
+}
+.ssr-icon-lightning:before {
+  content: "\37";
+}
+.ssr-icon-route:before {
+  content: "\38";
+}
+.ssr-icon-member:before {
+  content: "\39";
+}
+.ssr-icon-buy:before {
+  content: "\3a";
+}
+.ssr-icon-account:before {
+  content: "\3b";
+}
+.ssr-icon-rocket:before {
+  content: "\3c";
+}
+.ssr-icon-menu:before {
+  content: "\3d";
+}
